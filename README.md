@@ -11,8 +11,8 @@
 ## Meus Status 
 
 <div style="display: flex;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueCBorges&show_icons=true&t&theme=vision-friendly-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCBorges&layout=compact&theme=vision-friendly-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenriqueCBorges&show_icons=true&t&theme=vision-friendly-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCBorges&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
  ## Meu Conhecimento
