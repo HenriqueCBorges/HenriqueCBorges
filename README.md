@@ -1,9 +1,9 @@
 ## Minhas Redes Sociais 
 <div>
-  <a href="https://www.linkedin.com/in/henrique-cborges/">
+  <a target="_blank" href="https://www.linkedin.com/in/henrique-cborges/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   <a href="https://www.behance.net/henriqborges">
+   <a target="_blank" href="https://www.behance.net/henriqborges">
     <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
 </div>
